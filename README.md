@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**Robin-Britz/Robin-Britz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Beginner Software Developer  
 
-Here are some ideas to get you started:
+```
+🌐 Web: HTML, CSS, JS
+🐍 Languages: Python, C#
+🎮 Game Dev: Godot
+📊 Databases: MS SQL, JSON
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 About Me
+- 🌱 Currently learning **C#** and dipping my toes in **game development with Godot**  
+- 💻 Practicing **web development** fundamentals (HTML, CSS, JS)  
+- 🚀 Exploring projects to grow my skills one commit at a time  
+
+---
+
+### 🛠️ Tools & Technologies
+- Editors/IDEs: VS Code, PyCharm, SSMS
+- Version Control: Git & GitHub  
+- Platforms: Windows, Linux  
+
+---
+
+### 🎯 Goals
+- Love, learn and breath code!
+- Complete full-stack web projects
+- Continues learning 🤩
+
+---
+
+💡 *“Code, break, learn, repeat.”*  
