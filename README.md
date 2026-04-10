@@ -1,19 +1,19 @@
 ## Hi there 👋
 
-# 👨‍💻 Beginner Software Developer  
+# 👨‍💻 Aspiring Software Developer  
 
 ```
 🌐 Web: HTML, CSS, JS
 🐍 Languages: Python, C#
-🎮 Game Dev: Godot
 📊 Databases: MS SQL, JSON
 ```
 
 ---
 
 ### 📌 About Me
-- 🌱 Currently learning **C#** and dipping my toes in **game development with Godot**  
-- 💻 Practicing **web development** fundamentals (HTML, CSS, JS)  
+- 🐍 Python was my "gateway drug" to coding
+- 🌱 Currently mastering **C#**
+- 💻 Comfortable with core **Web Development** fundamentals (HTML, CSS, JS)
 - 🚀 Exploring projects to grow my skills one commit at a time  
 
 ---
